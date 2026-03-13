@@ -1,3 +1,12 @@
 # light_sensor
 Light Sensor schematic files, built in KiCad.
-<img width="765" height="753" alt="Screenshot 2026-03-13 at 12 10 37 AM" src="https://github.com/user-attachments/assets/28f9c2cf-27a6-48bb-9743-7503d12865cb" />
+
+
+Schematic
+<img width="1185" height="650" alt="Screenshot 2026-03-12 at 11 59 03 PM" src="https://github.com/user-attachments/assets/20c099dc-3e67-407f-999e-1fb3ff4b2899" />
+
+Layout in KiCad PCB Editor
+<img width="749" height="749" alt="Screenshot 2026-03-13 at 12 10 46 AM" src="https://github.com/user-attachments/assets/930ecd16-6df2-43f2-b19b-c230bd368cfc" />
+
+3D View
+<img width="975" height="551" alt="Screenshot 2026-03-13 at 12 13 31 AM" src="https://github.com/user-attachments/assets/08d966fc-37fe-472d-beda-30a6f7c04c35" />
