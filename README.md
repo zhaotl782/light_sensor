@@ -1,2 +1,2 @@
 # light_sensor
-Light Sensor schematic built in KiCad.
+Light Sensor schematic files, built in KiCad.
